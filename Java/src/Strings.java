@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class StringNew {
+public class Strings {
     public static void main(String[] args) {
 
 //        String name = new String("Raghav");

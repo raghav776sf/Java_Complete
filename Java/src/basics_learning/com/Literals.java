@@ -1,4 +1,4 @@
-package learning.com;
+package basics_learning.com;
 
 public class Literals {
     public static void main(String[] args) {

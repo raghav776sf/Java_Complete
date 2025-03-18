@@ -1,4 +1,4 @@
-package learning.com;
+package basics_learning.com;
 
 public class Operators {
     public static void main(String[] args) {

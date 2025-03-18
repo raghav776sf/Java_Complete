@@ -1,4 +1,4 @@
-package learning.com;
+package basics_learning.com;
 import java.util.Scanner;
 
 public class PracticeQues {
